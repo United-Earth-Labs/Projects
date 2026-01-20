@@ -36,15 +36,6 @@ Examples:
 - Radiation as Fuel
 - Artificial Ecosystems
 
-### 🎓 Terminal Academy
-Educational and skill-building initiatives.
-
-Examples:
-- Free tech courses
-- Hands-on labs
-- Job-ready skill tracks
-- Practice projects and assessments
-
 ### 🛠️ Tools & Infrastructure
 Internal or public tools that support development, learning, or collaboration.
 
